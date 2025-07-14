@@ -1,24 +1,4 @@
-
-Then click **“Commit new file”**.
-
----
-
-## 🎯 Final Outcome:
-
-You will now have a public GitHub repository like this:
-
-📂 `https://github.com/your-username/ai-notes-transcript-filler`
-
-Others can now:
-- View your code
-- Download it
-- Contribute or review it
-
----
-
-Let me know if you'd like:
-- A ready-to-copy `README.md` file
-- Help using GitHub Desktop (another beginner-friendly tool)
-- Tips for maintaining your GitHub project
-
-I'm happy to assist!
+title: AI Notes and Transcript Filler
+sdk: streamlit
+python_version: 3.10
+app_file: app.py
